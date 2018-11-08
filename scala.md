@@ -30,3 +30,4 @@ class Default[A] {
 
 ## Data types
 
+![types](https://i.stack.imgur.com/2fjoA.png)
